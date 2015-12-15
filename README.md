@@ -1,9 +1,16 @@
-
-
 ### Run the Application
 
-the project with a simple development web server.  The simplest way to start
+to run the Application the simpliest way is to lunch an python server  :
 
+ version  : 2.x
+ in the root directory of your project :
+ 
+ py -m SimpleHTTPServer
+ 
+version  : 3.x
+
+in the root directory of your project :
+ 
 
 ## Additional Resources
 
